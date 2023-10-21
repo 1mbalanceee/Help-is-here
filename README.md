@@ -12,4 +12,6 @@
 3. pwd - to check where you are in Git
 4. git remote add origin git@github.com:1mbalanceee/first-project.git -  to add repository
 5. git remote -v - to check if 4 is done correctly
-6. 
+
+   NEW INFO
+   1. Git hash: хэш - инфа о коммите, выызываемая при помощи git log .
